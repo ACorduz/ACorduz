@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌟 Me encanta aprender sobre nuevas tecnologías y mejorar continuamente mis habilidades.<br>- 🚀 Actualmente estoy trabajando en un proyecto de la universidad, usando Django y aplicando el patrón MVC.<br>- 💬 Pregúntame sobre Desarrollo de aplicaciones web usando el patrón MVC usando Django o Laravel..
+- 🌟 Me encanta aprender sobre nuevas tecnologías y mejorar continuamente mis habilidades.<br> - 🚀 Actualmente estoy trabajando en un proyecto de la universidad, usando Django y aplicando el patrón MVC.<br> - 💬 Pregúntame sobre Desarrollo de aplicaciones web usando el patrón MVC usando Django o Laravel.
 
 
 ## 🌐 Socials:
